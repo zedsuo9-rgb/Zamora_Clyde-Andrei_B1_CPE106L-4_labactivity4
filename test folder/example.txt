@@ -1,0 +1,11 @@
+case 1:
+Enter an animal type: dog
+Case 1: Created a Dog that says: Woof!
+
+case 2:
+Enter an animal type: cat
+Case 2: Created a Cat that says: Meow!
+
+case 3:
+Enter an animal type: dragon
+Case 3: Error - Unknown animal type: dragon
